@@ -1,9 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Hi%20there%20👋,-nl-%20I'm%20NaYeon%20Chae&reversal=true&fontAlign=27&fontAlignY=24&fontSize=51&stroke=88888810&descAlign=58">
-
-
-<h1 align="center">Hi 👋, I'm NaYeon Chae</h1>
-<h3 align="center">Web Developer from Korea</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=154&color=BFCFE7&text=Hi%20there%20👋,-nl-%20I'm%20NaYeon%20Chae&reversal=true&fontAlign=27&fontAlignY=38&fontColor=3D3B40&fontSize=51&stroke=BFCFE730&descAlign=58&descAlignY=34">
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
