@@ -1,9 +1,6 @@
-### Hi there 👋
-<a href="https://www.linkedin.com/in/%EB%82%98%EC%97%B0-%EC%B1%84-385b65288/" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/NaYeonChae-%23FFFFFF?style=flat&logo=linkedin&labelColor=%230A66C2&color=%230A66C2"></a>
 
 <h1 align="center">Hi 👋, I'm NaYeon Chae</h1>
-<h3 align="center">A passionate web developer from Korea</h3>
+<h3 align="center">Web Developer from Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nychaee&label=Profile%20views&color=0e75b6&style=flat" alt="nychaee" /> </p>
 
@@ -22,6 +19,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nychaee&show_icons=true&locale=en" alt="nychaee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nychaee&" alt="nychaee" /></p>
+
+<a href="https://www.linkedin.com/in/%EB%82%98%EC%97%B0-%EC%B1%84-385b65288/" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/NaYeonChae-%23FFFFFF?style=flat&logo=linkedin&labelColor=%230A66C2&color=%230A66C2"></a>
 
 <!--
 **nychae/nychae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
