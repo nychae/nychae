@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Static Badge](https://img.shields.io/badge/NaYeon-Chae--?style=for-the-badge&logo=linkedin&labelColor=%230A66C2&color=%230A66C2)
+![Static Badge](https://img.shields.io/badge/NaYeon_Chae?style=for-the-badge&logo=linkedin&labelColor=%230A66C2&color=%230A66C2)
 
 <!--
 **nychae/nychae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
