@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Static Badge](https://img.shields.io/badge/NaYeonChae-%23FFFFFF?style=flat&logo=linkedin&labelColor=%230A66C2&color=%230A66C2)
-![Static Badge](https://img.shields.io/badge/NaYeonChae-%23FFFFFF?style=flat&logo=linkedin&labelColor=%230A66C2&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2F%25EB%2582%2598%25EC%2597%25B0-%25EC%25B1%2584-385b65288%2F)
+<a href="https://www.linkedin.com/in/%EB%82%98%EC%97%B0-%EC%B1%84-385b65288/" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/NaYeonChae-%23FFFFFF?style=flat&logo=linkedin&labelColor=%230A66C2&color=%230A66C2"></a>
 
 
 <!--
