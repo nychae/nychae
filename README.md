@@ -1,5 +1,6 @@
 <div align=center>
-<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=150&color=BFCFE790&text=Hi%20👋,-nl-%20I'm%20NAYEON&reversal=false&fontAlign=34&fontAlignY=37&fontColor=3D3B40&fontSize=56&stroke=BFCFE730&descAlign=28&descAlignY=34&rotate=0&section=footer">
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=150&color=BFCFE790&text=Hi%20👋,-nl-%20I'm%20NAYEON&reversal=false&fontAlign=34&fontAlignY=37&fontColor=3D3B40&fontSize=56&stroke=BFCFE730&descAlign=28&descAlignY=34&rotate=0&section=footer">-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=150&color=BFCFE790&text=Hi%20👋,-nl-%20I'm%20NAYEON&reversal=false&fontAlign=34&fontAlignY=37&fontColor=3D3B40&fontSize=56&stroke=BFCFE730&descAlign=28&descAlignY=34&rotate=0&section=footer">
 
 
 <h2>💪 SKILLS</h3>
